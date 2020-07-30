@@ -19,7 +19,7 @@ exclude:
   - licenses
 
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
