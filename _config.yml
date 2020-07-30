@@ -3,7 +3,7 @@ email: nklbdev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Все права защищены, накормлены и уложены спать.
   Ничего личного, только личный блог.
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: https://nklbdev.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nklbdev
 github_username:  nklbdev
