@@ -10,14 +10,13 @@ github_username:  nklbdev
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
 
 future: true
 exclude:
   licenses
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-gist
-#   - redcarpet
 
 # From Hyde
 
@@ -26,15 +25,11 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
 #relative_permalinks: true
 
 # Setup
 tagline:          'Tagline text'
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
