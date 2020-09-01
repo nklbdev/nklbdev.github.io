@@ -20,7 +20,7 @@ exclude:
 
 # Dependencies
 #markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 #permalink:        pretty
